@@ -1,0 +1,7 @@
+.container { max-width: 1000px; margin: 20px auto; font-family: system-ui, Arial; }
+.header { display:flex; justify-content:space-between; align-items:center; margin-bottom:16px; }
+.header nav a { margin-left:12px; text-decoration:none; color:#333; }
+.grid { display:grid; grid-template-columns: repeat(3, 1fr); gap:12px; }
+.card { border:1px solid #eee; padding:12px; border-radius:8px; }
+button { padding:8px 10px; border-radius:6px; cursor:pointer; }
+.form { max-width:400px; }
